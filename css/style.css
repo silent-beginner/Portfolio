@@ -286,10 +286,11 @@ img.vert-move {
 
 .portfolio-content {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
- 
-  gap: 1.5rem;
-  margin-top: 2rem;
+  grid-template-columns: repeat(3,1fr); 
+  
+  gap: 2rem;
+  
+  
 }
 
 .portfolio-content .portfolio-img {
@@ -305,6 +306,7 @@ img.vert-move {
   width: 100%;
   display: block;
   height: 100%;
+ 
  
 }
 
@@ -352,6 +354,12 @@ img.vert-move {
 .portfolio-layer a i {
   color: var(--text-color);
   font-size: 1.4rem;
+
+
+}
+.portfolio-layer p {
+  
+  font-size: 0.85rem;
 
 
 }
