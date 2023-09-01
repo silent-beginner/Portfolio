@@ -3,12 +3,18 @@ This is a responsive portfolio website created using HTML, CSS, and JavaScript. 
 
 # Features
 Responsive Design
+
 Project Showcase
+
 Contact Information
+
 Skills Section
+
 Smooth Navigation
 
 # Technologies Used
 HTML
+
 CSS
+
 JavaScript
